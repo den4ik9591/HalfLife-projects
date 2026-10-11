@@ -21,7 +21,7 @@
 | [pin headers](https://a.aliexpress.com/_EGlrmQO) | pins | 1 | $1.18 | $1.18 | [aliexpress](https://a.aliexpress.com/_EGlrmQO) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | PCB | 1 | $10.49 | $10.49 | [jlcpcb](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Parts subtotal** | — | — | — | **$23.73** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.73** | — |
+| **Tax & shipping** | — | — | — | **$6.36** | — |
+| **Total** | — | — | — | **$30.09** | — |
 
-$6.27 left of the tier's funding.
+**$0.09 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
