@@ -1,0 +1,10 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32-C3,1,aliexpress,$2.65,$2.65,https://a.aliexpress.com/_EwOr6si
+"0.96"" I2C OLED (SSD1306)",1,aliexpress,$2.60,$2.60,https://a.aliexpress.com/_EyjILVo
+GY-521 MPU6050 module,1,aliexpress,$2.24,$2.24,https://a.aliexpress.com/_EQTt9d0
+DHT11 sensor,1,aliexpress,$1.55,$1.55,https://a.aliexpress.com/_EJhRA2W
+Cherry MX,1,aliexpress,$2.21,$2.21,https://a.aliexpress.com/_EzPqeJC
+10k resistor,1,aliexpress,$0.81,$0.81,https://a.aliexpress.com/_EvYVswm
+pin headers,1,aliexpress,$1.18,$1.18,https://a.aliexpress.com/_EGlrmQO
+PCB,1,jlcpcb,$10.49,$10.49,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+Estimated total shipping,1,,,$6.36,
