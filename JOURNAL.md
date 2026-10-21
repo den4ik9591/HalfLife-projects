@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvqnvxt02mt01o9799u07ar). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny motion-controlled digital pet, basically a desktop buddy.KiCad will be used for the schematics and fusion360 in future for case
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
